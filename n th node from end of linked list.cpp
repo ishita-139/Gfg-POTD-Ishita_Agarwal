@@ -2,7 +2,7 @@
 int getNthFromLast(Node *head, int n)
     {
         Node* temp=head;
-        Node* ans=head;
+        Node* ans=head;//
         int c=0;
         while(temp)
         {
