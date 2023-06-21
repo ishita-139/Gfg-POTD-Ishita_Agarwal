@@ -26,7 +26,7 @@ int five = 0;
                 }
                 else if(five>=3)
                 {
-                    fives-=3;
+                    five-=3;
                 }
                 else return false;
             }
